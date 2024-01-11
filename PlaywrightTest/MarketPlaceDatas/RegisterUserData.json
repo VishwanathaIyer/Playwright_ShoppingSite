@@ -1,0 +1,11 @@
+{
+    "testUrl" : "https://ecommerce-playground.lambdatest.io/",
+    "firstName": "Vishwa",
+    "lastName": "Nath",
+    "email": "klm@bcde.com",
+    "telephone": "054798787",
+    "password": "abcd",
+    "successfulRegistrationMessage": "Your Account Has Been Created!",
+    "loginMessage" : "Edit your account information",
+    "totalCost" : "Total:"
+}

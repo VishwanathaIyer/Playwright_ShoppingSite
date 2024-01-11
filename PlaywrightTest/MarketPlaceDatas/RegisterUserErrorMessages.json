@@ -1,0 +1,10 @@
+{
+    "firstNameRequiredMessage": "First Name must be between 1 and 32 characters!",
+    "lastNameRequiredMessage": "Last Name must be between 1 and 32 characters!",
+    "emailValidationMessage": "E-Mail Address does not appear to be valid!",
+    "telephoneRequiredMessage": "Telephone must be between 3 and 32 characters!",
+    "passwordRequiredMessage": "Password must be between 4 and 20 characters!",
+    "cityRequiredMessage" :"City must be between 2 and 128 characters!",
+    "postCodeRequiredMessage" : "Postcode must be between 2 and 10 characters!",
+    "addressRequiredMessage" : "Address 1 must be between 3 and 128 characters!"
+}
